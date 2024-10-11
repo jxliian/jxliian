@@ -2,19 +2,15 @@
 
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
-I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I love building ML, AI and mobile apps.
+I'm 20-year-old boy on an intention to enhance as a Computer Science engineer and Bussiness Administrator. I love sports.
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🔭 I’m currently working on YOLO v5
-- 🌱 I’m currently learning custom object detection
-- 👯 I’m looking to collaborate on Computer Vision
+- 🔭 I’m currently working on Irrgarten
+- 🌱 I’m currently learning OOP
 - 🤔 I’m looking for a good project
-- 💬 Ask me about Computer Vision
-- 📫 How to reach me: [maitysourab@gmail.com](mailto:maitysourab@gmail.com)
-- 😄 Pronouns: He
-- ⚡ Fun fact: Big fan of 🌈
+- 📫 How to reach me: [carrionjuliann@gmail.com](mailto:carrionjuliann@gmail.com)
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/maitysourab" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
+<a href="https://www.buymeacoffee.com/jxliann" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
 
 ## Let's Connect <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/socials.png" width=40 height=40 /> 
 
@@ -83,16 +79,3 @@ I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> 
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-## Spotify Playing 🎧
-
-
-
-[![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/v3u6o6qjexr1zv9w39l6c4qq2)
-
-
-------
-
-
-Credit: [Sourab Maity](https://github.com/sourabmaity)
-Last Edited on: 02/07/2022
