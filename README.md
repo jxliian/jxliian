@@ -5,7 +5,7 @@
 I'm 20-year-old boy on an intention to enhance as a Computer Sciencetist  and Bussiness Administrator. I love sports.
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🔭 I’m currently working on AQT
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning SQL and Python
 - 🤔 I’m looking for a good project
 - 📫 How to reach me: [carrionjuliann@gmail.com](mailto:carrionjuliann@gmail.com)
 
