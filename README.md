@@ -33,7 +33,4 @@ I'm 20-year-old boy on an intention to enhance as a Computer Sciencetist  and Bu
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)&nbsp;
 
 
-
-
-<div align="center">
-<a href="https://paypal.me/JulianCarrion?country.x=ES&locale.x=es_ES" target="_blank"><img src="https://www.citypng.com/public/uploads/preview/paypal-donate-blue-button-hd-png-701751695036596qehbfeogb7.png" /></a></div>
+Si quieres ofrecerme ayuda, siempre puedes darme algo [aquí ;)](https://paypal.me/JulianCarrion?country.x=ES&locale.x=es_ES)
