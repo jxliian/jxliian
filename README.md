@@ -1,7 +1,5 @@
 <h1><s style="color: blue;">Hello, I'm Julian</s></h1>
 
-<img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
-
 I'm 20-year-old boy on an intention to enhance as a Computer Sciencetist  and Business Administrator. I love sports.
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🔭 I’m currently working on ???
