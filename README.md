@@ -29,5 +29,5 @@ I'm 21-year-old boy on an intention to enhance as a Computer Sciencetist and Bus
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)&nbsp;
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)&nbsp;
 
-- If you want to help me, check this [this](https://paypal.me/JulianCarrion?country.x=ES&locale.x=es_ES) out
-- Si quieres ofrecerme ayuda, siempre puedes darme algo [aquí ;)](https://paypal.me/JulianCarrion?country.x=ES&locale.x=es_ES)
+- (ENG) If you want to help me, check this [this](https://paypal.me/JulianCarrion?country.x=ES&locale.x=es_ES) out
+- (ESP) Si quieres ofrecerme ayuda, siempre puedes darme algo [aquí](https://paypal.me/JulianCarrion?country.x=ES&locale.x=es_ES)
