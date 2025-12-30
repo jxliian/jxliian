@@ -1,6 +1,6 @@
 <h1><s style="color: blue;">Hello, I'm Julian</s></h1>
 
-I'm 21-year-old boy on an intention to enhance as a Computer Sciencetist and Business Administrator.
+Hello, I'm 21-year-old student on an intention to enhance as a Computer Sciencetist and Business Administrator.
 
 - 🔭 I’m currently working on ABM's and Casino Project.
 - 📫 How to reach me: [carrionjuliann@gmail.com](mailto:carrionjuliann@gmail.com)
