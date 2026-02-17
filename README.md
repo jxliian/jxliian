@@ -2,7 +2,7 @@
 
 Hello, I'm 21-year-old student on an intention to enhance as a Computer Sciencetist and Business Administrator.
 
-- 🔭 I’m currently working on ABM's and Casino Project.
+- 🔭 I’m currently working on ???
 - 📫 How to reach me: [carrionjuliann@gmail.com](mailto:carrionjuliann@gmail.com)
 
 - ### 🛠 &nbsp;Tech Stack
