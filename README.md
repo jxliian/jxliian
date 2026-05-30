@@ -46,12 +46,9 @@ My background spans multiple programming paradigms, and I'm constantly expanding
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
-
 ## 📊 GitHub Stats
  
-| Streak | Top Languages |
-|:---:|:---:|
-| [![GitHub Streak](https://streak-stats.demolab.com?user=jxliian&theme=github-dark&hide_border=true)](https://git.io/streak-stats) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jxliian&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400) |
+[![GitHub Streak](https://streak-stats.demolab.com?user=jxliian&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
  
 ---
 
