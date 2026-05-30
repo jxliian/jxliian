@@ -47,43 +47,13 @@ My background spans multiple programming paradigms, and I'm constantly expanding
 
 ---
 
-## 🚀 Featured Projects
-
-### [LexDown — Markdown to HTML Converter](https://github.com/jxliian/markdown-to-html-lex)
-A Markdown-to-HTML compiler built from scratch using **LEX** and **C++**. Implements a custom lexer/parser pipeline that tokenizes and renders Markdown syntax into valid HTML.
-
-`C++` · `Compiler Design` · `LEX`
-
----
-
-### [AutoQuickTest](https://github.com/jxliian/AutoQuickTest)
-Converts any Excel database into a ready-to-use multiple-choice exam. Designed to automate test generation for educators and students, saving time on manual formatting.
-
-`Python` · `Excel Automation` · `Education Tools`
-
----
-
-### [SSDBot — Spanish Security Discord Bot](https://github.com/jxliian/SSDBot)
-An advanced, modular Discord bot focused on server security, moderation, and management. Designed to be highly customizable and scalable for community servers.
-
-`Python` · `Discord API` · `Server Automation`
-
----
-
-### [ABM: Income, Social Relations & Happiness](https://github.com/jxliian/ABM-Income-Interpersonal-Relations-Impact-on-Happiness)
-An Agent-Based Model (ABM) that simulates how income levels and interpersonal relationships influence happiness scores across a population. Built for a computational social science context.
-
-`Python` · `Agent-Based Modeling` · `Data Analysis`
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Julian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jxliian&show_icons=true&theme=github_dark&hide_border=true&count_private=true)&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jxliian&layout=compact&theme=github_dark&hide_border=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=jxliian&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jxliian&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400)
+ 
 </div>
 
 ---
