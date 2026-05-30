@@ -1,7 +1,9 @@
 <div align="center">
 
 # Julian Carrion
-### Computer Science & Business Administration
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Science+%26+Business+Student;Low-level+systems+to+web+apps;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
+
 #### Universidad de Granada · Granada, Spain
 
 [![Email](https://img.shields.io/badge/Email-carrionjuliann%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:carrionjuliann@gmail.com)
@@ -46,10 +48,11 @@ My background spans multiple programming paradigms, and I'm constantly expanding
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
+
 ## 📊 GitHub Stats
- 
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=jxliian&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
- 
+
 ---
 
 ## 📫 Get in Touch
