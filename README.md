@@ -41,10 +41,9 @@ My background spans multiple programming paradigms, and I'm constantly expanding
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 **Featured Project**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jxliian&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-
+I also built **[repasaYA](https://jxliian.github.io/repasaYA/)**, a platform where I share my university notes, flashcards, and practice questions to help the student community.
 ---
 
 ## 📫 Get in Touch
