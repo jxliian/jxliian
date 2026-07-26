@@ -21,7 +21,7 @@ My background spans multiple programming paradigms, and I'm constantly expanding
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=black)&nbsp;
@@ -41,18 +41,18 @@ My background spans multiple programming paradigms, and I'm constantly expanding
 
 ---
 
-## 🚀 **Featured Project**
+##  **Featured Project**
 
 I also built **[repasaYA](https://jxliian.github.io/repasaYA/)**, a platform where I share my university notes, flashcards, and practice questions to help the student community.
 
 ---
 
-## 📫 Get in Touch
+##  Get in Touch
 
 I'm open to collaborations, academic projects, and internship opportunities.
 
 - **Email:** [carrionjuliann@gmail.com](mailto:carrionjuliann@gmail.com)
-- **Location:** Granada, Spain 🇪🇸
+- **Location:** Granada, Spain 
 
 ---
 
