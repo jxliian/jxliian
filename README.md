@@ -7,9 +7,7 @@
 
 #### Universidad de Granada · Granada, Spain
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-jxliian.github.io-0071e3?style=for-the-badge&logoColor=white)](https://jxliian.github.io)
-[![Tech Resume](https://img.shields.io/badge/📄_Tech_Resume-LaTeX_PDF-10b981?style=for-the-badge&logoColor=white)](https://jxliian.github.io/cv/julian_carrion_tech_resume.pdf)
-[![Casual CV](https://img.shields.io/badge/📋_Student_CV-Casual_PDF-f59e0b?style=for-the-badge&logoColor=white)](https://jxliian.github.io/cv/julian_carrion_estudiante_casual.pdf)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-jxliian.github.io-0071e3?style=for-the-badge&logoColor=white)](https://jxliian.github.io)
 
 <br/>
 
@@ -21,20 +19,20 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a 21-year-old double-degree student in **Computer Science and Business Administration (ADE)** at the **University of Granada (UGR)**. My academic and professional focus bridges **software engineering, systems programming, and algorithmic efficiency** with **strategic product vision and quantitative business management**.
 
-- 🎓 **Education:** Double Degree in CS + Business Administration (ETSIIT & Facultad de CC. Económicas, UGR)
-- 🏆 **Academic Honors (UGR):** 
+- **Education:** Double Degree in CS + Business Administration (ETSIIT & Facultad de CC. Económicas, UGR)
+- **Academic Honors (UGR):** 
   - **Quantitative Techniques** (Probability, Statistics & Analysis): **9.8 / 10 (Matrícula de Honor)**
   - **User Interface Design** (UI/UX & Web Development): **9.4 / 10 (Matrícula de Honor)**
   - **EBAU University Access Score:** **13.005 / 14.000** (Top 1% distinction)
-- 🌐 **Interactive Portfolio:** Explore my live interactive portfolio at **[jxliian.github.io](https://jxliian.github.io)**
+- **Interactive Portfolio:** Explore my live portfolio at **[jxliian.github.io](https://jxliian.github.io)**
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 ### **Languages**
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black)&nbsp;
@@ -61,33 +59,26 @@ I am a 21-year-old double-degree student in **Computer Science and Business Admi
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :---: |
-| 📚 **repasaYA** | Educational web platform for sharing structured notes, flashcards, and exam prep. | HTML5, CSS3, JS | [Live App](https://jxliian.github.io/repasaYA/) |
-| 📊 **ABM Income & Happiness** | Agent-based computational simulation analyzing income dynamics & societal happiness. | Python, Mesa, Pandas | [Live Demo](https://jxliian.github.io/#projects) |
-| ⚙️ **Markdown Lex Parser** | Lexical compiler tool converting Markdown syntax rules directly into HTML elements. | Lex / Flex, C++ | [Live Demo](https://jxliian.github.io/#projects) |
-| 🤖 **SSDBot** | Modular Discord Bot for community server management, API integrations & automation. | Python, Discord API | [Live Demo](https://jxliian.github.io/#projects) |
-| 🧪 **AutoQuickTest** | Automated software testing framework validating execution outputs against test suites. | C++, Bash | [Live Demo](https://jxliian.github.io/#projects) |
-| 🎮 **Irrgarten Engine** | Object-Oriented maze game engine supporting multi-player state logic in Java and Ruby. | Java, Ruby (OOP) | [Live Demo](https://jxliian.github.io/#projects) |
+| **repasaYA** | Educational web platform for sharing structured notes, flashcards, and exam prep. | HTML5, CSS3, JS | [Live App](https://jxliian.github.io/repasaYA/) |
+| **ABM Income & Happiness** | Agent-based computational simulation analyzing income dynamics & societal happiness. | Python, Mesa, Pandas | [Live Demo](https://jxliian.github.io/#projects) |
+| **Markdown Lex Parser** | Lexical compiler tool converting Markdown syntax rules directly into HTML elements. | Lex / Flex, C++ | [Live Demo](https://jxliian.github.io/#projects) |
+| **SSDBot** | Modular Discord Bot for community server management, API integrations & automation. | Python, Discord API | [Live Demo](https://jxliian.github.io/#projects) |
+| **AutoQuickTest** | Automated software testing framework validating execution outputs against test suites. | C++, Bash | [Live Demo](https://jxliian.github.io/#projects) |
+| **Irrgarten Engine** | Object-Oriented maze game engine supporting multi-player state logic in Java and Ruby. | Java, Ruby (OOP) | [Live Demo](https://jxliian.github.io/#projects) |
 
 ---
 
-## 📄 Resumes & Downloads
-
-- 💼 **[Tech & Software Engineering Resume (English / LaTeX PDF)](https://jxliian.github.io/cv/julian_carrion_tech_resume.pdf)** — Single-page ATS-optimized tech resume for software engineering, systems, and data roles.
-- 📋 **[Student & Customer Service CV (Spanish / PDF)](https://jxliian.github.io/cv/julian_carrion_estudiante_casual.pdf)** — Modern visual CV for student internships, summer positions, and customer-facing roles (Cambridge C1 English).
-
----
-
-## 📬 Get in Touch
+## Get in Touch
 
 I'm open to software engineering internships, academic research, and tech/business opportunities.
 
-- 🌐 **Interactive Portfolio:** [jxliian.github.io](https://jxliian.github.io)
-- 📧 **Email:** [carrionjuliann@gmail.com](mailto:carrionjuliann@gmail.com)
-- 📍 **Location:** Motril / Granada, Spain
+- **Interactive Portfolio:** [jxliian.github.io](https://jxliian.github.io)
+- **Email:** [carrionjuliann@gmail.com](mailto:carrionjuliann@gmail.com)
+- **Location:** Motril / Granada, Spain
 
 ---
 
