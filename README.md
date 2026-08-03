@@ -24,10 +24,6 @@
 I am a 21-year-old double-degree student in **Computer Science and Business Administration (ADE)** at the **University of Granada (UGR)**. My academic and professional focus bridges **software engineering, systems programming, and algorithmic efficiency** with **strategic product vision and quantitative business management**.
 
 - **Education:** Double Degree in CS + Business Administration (ETSIIT & Facultad de CC. Económicas, UGR)
-- **Academic Honors (UGR):** 
-  - **Quantitative Techniques** (Probability, Statistics & Analysis): **9.8 / 10 (Matrícula de Honor)**
-  - **User Interface Design** (UI/UX & Web Development): **9.4 / 10 (Matrícula de Honor)**
-  - **EBAU University Access Score:** **13.005 / 14.000** (Top 1% distinction)
 - **Interactive Portfolio:** Explore my live portfolio at **[jxliian.github.io](https://jxliian.github.io)**
 
 ---
