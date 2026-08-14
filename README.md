@@ -62,7 +62,7 @@ I am a 21-year-old double-degree student in **Computer Science and Business Admi
 | **repasaYA** | Educational web platform for sharing structured notes, flashcards, and exam prep. | HTML5, CSS3, JS | [Live App](https://jxliian.github.io/repasaYA/) |
 | **ABM Income & Happiness** | Agent-based computational simulation analyzing income dynamics & societal happiness. | Python, Mesa, Pandas | [Live Demo](https://jxliian.github.io/#projects) |
 | **Markdown Lex Parser** | Lexical compiler tool converting Markdown syntax rules directly into HTML elements. | Lex / Flex, C++ | [Live Demo](https://jxliian.github.io/#projects) |
-| **SSDBot** | Modular Discord Bot for community server management, API integrations & automation. | Python, Discord API | [Live Demo](https://jxliian.github.io/#projects) |
+| **Fit Tracker** | A local-first Android app designed to track workouts, automated progressive overload and more. | TypeScript, Expo GO | [Live Demo](https://jxliian.github.io/#projects](https://github.com/jxliian/fit-tracker) |
 | **AutoQuickTest** | Automated software testing framework validating execution outputs against test suites. | C++, Bash | [Live Demo](https://jxliian.github.io/#projects) |
 | **Irrgarten Engine** | Object-Oriented maze game engine supporting multi-player state logic in Java and Ruby. | Java, Ruby (OOP) | [Live Demo](https://jxliian.github.io/#projects) |
 
