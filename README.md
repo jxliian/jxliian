@@ -21,7 +21,7 @@
 
 ## About Me
 
-I am a 21-year-old double-degree student in **Computer Science and Business Administration (ADE)** at the **University of Granada (UGR)**. My academic and professional focus bridges **software engineering, systems programming, and algorithmic efficiency** with **strategic product vision and quantitative business management**.
+I am a 22-year-old double-degree student in **Computer Science and Business Administration (ADE)** at the **University of Granada (UGR)**. My academic and professional focus bridges **software engineering, systems programming, and algorithmic efficiency** with **strategic product vision and quantitative business management**.
 
 - **Education:** Double Degree in CS + Business Administration (ETSIIT & Facultad de CC. Económicas, UGR)
 - **Interactive Portfolio:** Explore my live portfolio at **[jxliian.github.io](https://jxliian.github.io)**
