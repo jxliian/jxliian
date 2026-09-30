@@ -72,7 +72,7 @@ I am a 22-year-old double-degree student in **Computer Science and Business Admi
 
 I'm open to software engineering internships, academic research, and tech/business opportunities.
 
-- **Interactive Portfolio:** [jxliian.github.io](https://jxliian.github.io)
+- **Interactive Portfolio:** [juliancarrion.dev](https://juliancarrion.dev)
 - **Email:** [carrionjuliann@gmail.com](mailto:carrionjuliann@gmail.com)
 - **Location:** Motril / Granada, Spain
 
