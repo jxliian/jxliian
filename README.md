@@ -7,7 +7,7 @@
 
 #### Universidad de Granada · Granada, Spain
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-jxliian.github.io-0071e3?style=for-the-badge&logoColor=white)](https://jxliian.github.io)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-jxliian.github.io-0071e3?style=for-the-badge&logoColor=white)](https://juliancarrion.dev)
 
 <br/>
 
