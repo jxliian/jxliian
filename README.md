@@ -24,7 +24,7 @@
 I am a 22-year-old double-degree student in **Computer Science and Business Administration (ADE)** at the **University of Granada (UGR)**. My academic and professional focus bridges **software engineering, systems programming, and algorithmic efficiency** with **strategic product vision and quantitative business management**.
 
 - **Education:** Double Degree in CS + Business Administration (ETSIIT & Facultad de CC. Económicas, UGR)
-- **Interactive Portfolio:** Explore my live portfolio at **[jxliian.github.io](https://jxliian.github.io)**
+- **Interactive Portfolio:** Explore my live portfolio at **[juliancarrion.dev](https://juliancarrion.dev)**
 
 ---
 
@@ -59,7 +59,7 @@ I am a 22-year-old double-degree student in **Computer Science and Business Admi
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **repasaYA** | Educational web platform for sharing structured notes, flashcards, and exam prep. | HTML5, CSS3, JS | [Live App](https://jxliian.github.io/repasaYA/) |
+| **repasaYA** | Educational web platform for sharing structured notes, flashcards, and exam prep. | HTML5, CSS3, JS | [Live App](https://repasaya.juliancarrion.dev) |
 | **ABM Income & Happiness** | Agent-based computational simulation analyzing income dynamics & societal happiness. | Python, Mesa, Pandas | [Live Demo](https://jxliian.github.io/#projects) |
 | **Markdown Lex Parser** | Lexical compiler tool converting Markdown syntax rules directly into HTML elements. | Lex / Flex, C++ | [Live Demo](https://jxliian.github.io/#projects) |
 | **Fit Tracker** | A local-first Android app designed to track workouts, automated progressive overload and more. | TypeScript, Expo GO | [Live Demo](https://github.com/jxliian/fit-tracker) |
